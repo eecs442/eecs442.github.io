@@ -69,7 +69,7 @@ The submission includes two parts:
     For including code, **do not use screenshots**. Generate a PDF using a [tool like this](https://www.i2pdf.com/source-code-to-pdf){:target="_blank"} or using this [Overleaf LaTeX template](https://www.overleaf.com/read/wbpyympmgfkf#bac472){:target="_blank"}. If this PDF contains only code, be sure to append it to the end of your report and match the questions carefully on Gradescope.
 
     For `.ipynb` notebooks in your local system you may refer to this [post](https://saturncloud.io/blog/how-to-convert-ipynb-to-pdf-in-jupyter-notebook/) to convert your notebook to a pdf using `nbconvert`. For Google-Colab users, you may use this code snippet as the final cell to download your notebooks as pdf's.
-
+    
     ```python
     # generate pdf
     # 1. Find the path to your notebook in your google drive.
